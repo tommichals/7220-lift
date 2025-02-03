@@ -5,9 +5,6 @@
 package frc.robot;
 
 import frc.robot.Constants.AMotorConstants;
-import frc.robot.Constants.OperatorConstants;
-import frc.robot.commands.AMotorRun;
-import static frc.robot.Constants.AMotorConstants.*;
 
 
 import frc.robot.commands.Autos;
